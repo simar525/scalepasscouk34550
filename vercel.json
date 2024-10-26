@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://scalepass.co.uk/$1"
+ }
+  ]
+}
